@@ -3,19 +3,18 @@
     "stable": "0.1.8",
     "changes":{
         "0.1.8":[
-            "",
-            "",
-            ""
+            "Tested this",
+            "Also did more testing",
+            "A lot of testing, basically"
         ],
         "0.1.7":[
-            "",
-            "",
-            ""
+            "This is an older version",
+            "It also has a really long changelog line that should probably be wrapped into multiple lines to be honest",
+            "Test"
         ],
         "0.1.6":[
-            "",
-            "",
-            ""
+            "This is an even older version!",
+            "It only has two things.",
         ]
     }
 }
