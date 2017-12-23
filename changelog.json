@@ -1,7 +1,17 @@
 {
-    "latest": "0.1.8",
-    "stable": "0.1.8",
+    "latest": "0.1.9",
+    "stable": "0.1.9",
     "changes": {
+        "0.1.9": [
+            "Added shift clicking to the inventory and chests",
+            "Make the world save when stopping a server",
+            "Make daylight cycle better by making day and night the same length",
+            "Make leaf decay better by making adjacent trees not leave floating leaves behind",
+            "Added an info file to the mods folder when it's first generated",
+            "Implement water physics",
+            "Implement water textures",
+            "Added clouds (edition 1)"
+        ],
         "0.1.8": [
             "Introduced changelog",
             "A lot of other things not listed here"
