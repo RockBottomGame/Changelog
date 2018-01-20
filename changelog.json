@@ -1,7 +1,23 @@
 {
-    "latest": "0.1.10",
-    "stable": "0.1.10",
+    "latest": "0.2.0",
+    "stable": "0.2.0",
     "changes": {
+        "0.2.0":[
+            "Updated the render engine to LWJGL 3",
+            "Added main menu backgrounds back (mining and nature theme)",
+            "Added effects system",
+            "Added speed effect",
+            "Added jump height effect",
+            "Added the ability for textures and localization to have wildcard categories (*.)",
+            "Fix render rotation and translation in info jsons being off",
+            "Added the ability to use shaders for rendering",
+            "Added the ability to use multiple texture banks for rendering",
+            "Added texture stitching for increased performance",
+            "Fixed some tiles crashing when placed in the background and then approached",
+            "Made break animations only display on the visible parts of tiles",
+            "Made the text gui component not display the finger cursor when hovered over",
+            "Make sand play its place sound even when falling right after placement"
+        ],
         "0.1.10": [
             "Added the spawn hut",
             "Added and implemented wooden doors",
