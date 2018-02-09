@@ -1,8 +1,26 @@
 {
-    "latest": "0.2.0",
+    "latest": "0.2.1",
     "stable": "0.2.0",
     "changes": {
-        "0.2.0":[
+        "0.2.1": [
+            "Added The Compendium, a new and improved way to construct items",
+            "Added the old wooden door",
+            "Added the start note",
+            "Added the ability to pull the last chat input back down using the arrow keys",
+            "Added construction recipes for doors and boards",
+            "Added a rename button to the select world gui",
+            "Added better effect icons",
+            "Added a scroll bar to the chat gui",
+            "Added the ability to scroll through chat suggestions if they would go off-screen before",
+            "Fix chunk packets handling light inefficiently, increasing performance on multiplayer",
+            "Update the game to Java 9 (Still supports Java 8)",
+            "Fixed the chat autocomplete going off-screen for long chat messages",
+            "Fix shift clicking in inventories being broken as of 0.2.0",
+            "Increased performance by changing the way assets are accessed",
+            "Remove the ability for doors to open when something is inside them",
+            "&rDo the disco dance"
+        ],
+        "0.2.0": [
             "Updated the render engine to LWJGL 3",
             "Added main menu backgrounds back (mining and nature theme)",
             "Added effects system",
