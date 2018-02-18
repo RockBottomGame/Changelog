@@ -1,6 +1,6 @@
 {
-    "latest": "0.2.1",
-    "stable": "0.2.0",
+    "latest": "0.2.2",
+    "stable": "0.2.2",
     "changes": {
         "0.2.2":[
             "Added the grass torch",
