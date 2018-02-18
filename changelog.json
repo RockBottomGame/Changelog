@@ -2,6 +2,18 @@
     "latest": "0.2.1",
     "stable": "0.2.0",
     "changes": {
+        "0.2.2":[
+            "Added the grass torch",
+            "Added plant fiber that drops from plants",
+            "Added the ability to enable a 'free mode' where you know all recipes from the start and story-related structures don't generate",
+            "Increased general performance by making some tile entities not tick (like chests and signs)",
+            "Made the log use a system-dependent file seperator so that it can be opened in things like notepad",
+            "Fixed an issue with broken or incomplete packets crashing the game due to breaking the pipeline",
+            "Make saplings only grow with enough light",
+            "Redo the Mods Gui to look a lot nicer",
+            "Make the mod loader info file tell the player that the game has to be restarted after installing a mod",
+            "Make file name for existing worlds append a number (world1, world2 etc) rather than dashes"
+        ],
         "0.2.1": [
             "Added The Compendium, a new and improved way to construct items",
             "Added the old wooden door",
