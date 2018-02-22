@@ -1,8 +1,24 @@
 {
-    "latest": "0.2.2",
-    "stable": "0.2.2",
+    "latest": "0.2.3",
+    "stable": "0.2.3",
     "changes": {
-        "0.2.2":[
+        "0.2.3": [
+            "Added twigs and made them drop from leaves",
+            "Added proper distance modelling for 3d sound, making it go quieter the farther away it is",
+            "Re-added inventory shift clicking",
+            "Made crash reports be pasted on paste.ee for easy bug reporting",
+            "Made grass torches get dimmer the longer they're on",
+            "Add a message that displays when the integrated server fails during startup",
+            "Started using the resource registry again, so now you can make wood things with old wood too",
+            "Increase tile accessing performance in chunks",
+            "Fixed the texture stitcher sometimes erasing padding pixels of other textures",
+            "Fixed tile breaking not being layer-based on certain conditions, causing graphical issues",
+            "Fixed the player editor's name field not allowing input",
+            "[API] Added IJsonSettings and deprecated IPropSettings",
+            "[API] Added some container and gui initialization events",
+            "[API] Added a priority system for tile, item and entity interactions"
+        ],
+        "0.2.2": [
             "Added the grass torch",
             "Added plant fiber that drops from plants",
             "Added the ability to enable a 'free mode' where you know all recipes from the start and story-related structures don't generate",
