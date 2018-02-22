@@ -1,7 +1,10 @@
 {
-    "latest": "0.2.3",
-    "stable": "0.2.3",
+    "latest": "0.2.3.1",
+    "stable": "0.2.3.1",
     "changes": {
+        "0.2.3.1": [
+            "Fixed the game crashing if there aren't already existing settings"
+        ],
         "0.2.3": [
             "Added twigs and made them drop from leaves",
             "Added proper distance modelling for 3d sound, making it go quieter the farther away it is",
