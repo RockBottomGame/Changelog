@@ -1,7 +1,17 @@
 {
-    "latest": "0.2.3.1",
-    "stable": "0.2.3.1",
+    "latest": "0.3",
+    "stable": "0.3",
     "changes": {
+        "0.3": [
+            "It's been half a year coming, but the Rock Bottom beta is finally back. This is an abbreviated changelog because a lot of stuff changed, basically. I was originally planning to wait until the auth system is done before bringing the beta back, but I've changed my mind. So here it is!",
+            "Added water, swimming and an air meter",
+            "Added skill points, still gaining and a skill meter (that doesn't have a purpose yet)",
+            "Added mortar, pestle and mushroom paste that gives you effects",
+            "Added the simple furnace and a way to get it, along with copper tools",
+            "Added combat and swords",
+            "Added slimes that spawn in the world and attack you",
+            "Generally make everything perform a bit better hopefully"
+        ],
         "0.2.3.1": [
             "Fixed the game crashing if there aren't already existing settings"
         ],
