@@ -1,7 +1,12 @@
 {
-    "latest": "0.3.1",
+    "latest": "0.3.2",
     "stable": "0.3",
     "changes": {
+        "0.3.2":[
+            "Fixed the mortar not working correctly in Multiplayer",
+            "Fixed trees sometimes generating weird branches",
+            "Fixed spawn behaviors being inconsistent, especially in Multiplayer"
+        ],
         "0.3.1": [
             "Added a player list",
             "Hopefully fixed issues with players sometimes being invisible on Multiplayer"
