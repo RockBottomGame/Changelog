@@ -7,7 +7,7 @@
             "Added boomerangs; return;"
             "Added a message command to send private messages to people",
             "Added a me likes this command",
-            "Made slimes only appear in darkness"
+            "Made slimes only appear in darkness",
             "Fix the mortar always displaying the bar in multiplayer",
             "Fixed logs being inconsistent with breaking and liquid behavior",
             "Make the client and the server react properly to packet issues by kicking the player",
