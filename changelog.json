@@ -11,7 +11,7 @@
             "Fix the mortar always displaying the bar in multiplayer",
             "Fixed logs being inconsistent with breaking and liquid behavior",
             "Make the client and the server react properly to packet issues by kicking the player",
-            "[API] Added a multi-world system so modders can create their own sub worlds"
+            "[API] Added a multi-world system so modders can create their own sub worlds",
             "[API] Add an event to replace missing tile states with new ones",
             "[API] Added tile, item and entity interaction using left click",
             "[API] Added a dynamic tool property system",
