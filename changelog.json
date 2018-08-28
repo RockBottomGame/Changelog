@@ -4,7 +4,7 @@
     "changes": {
         "0.3.3": [
             "Add a command to freeze time",
-            "Added boomerangs; return;"
+            "Added boomerangs; return;",
             "Added a message command to send private messages to people",
             "Added a me likes this command",
             "Made slimes only appear in darkness",
