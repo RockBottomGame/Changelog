@@ -5,8 +5,8 @@
         "0.3.3": [
             "Add a command to freeze time",
             "Added boomerangs; return;"
-            "Added a /message command to send private messages to people",
-            "Added a /me likes this command",
+            "Added a message command to send private messages to people",
+            "Added a me likes this command",
             "Made slimes only appear in darkness"
             "Fix the mortar always displaying the bar in multiplayer",
             "Fixed logs being inconsistent with breaking and liquid behavior",
