@@ -1,8 +1,23 @@
 {
-    "latest": "0.3.2",
+    "latest": "0.3.3",
     "stable": "0.3",
     "changes": {
-        "0.3.2":[
+        "0.3.3": [
+            "Add a command to freeze time",
+            "Added boomerangs; return;"
+            "Added a /message command to send private messages to people",
+            "Added a /me likes this command",
+            "Made slimes only appear in darkness"
+            "Fix the mortar always displaying the bar in multiplayer",
+            "Fixed logs being inconsistent with breaking and liquid behavior",
+            "Make the client and the server react properly to packet issues by kicking the player",
+            "[API] Added a multi-world system so modders can create their own sub worlds"
+            "[API] Add an event to replace missing tile states with new ones",
+            "[API] Added tile, item and entity interaction using left click",
+            "[API] Added a dynamic tool property system",
+            "[API] Added iterators to a lot of classes (DataSet, IInventory etc.)"
+        ],
+        "0.3.2": [
             "Fixed the mortar not working correctly in Multiplayer",
             "Fixed trees sometimes generating weird branches",
             "Fixed spawn behaviors being inconsistent, especially in Multiplayer"
