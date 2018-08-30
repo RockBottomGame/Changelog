@@ -1,7 +1,16 @@
 {
-    "latest": "0.3.3",
+    "latest": "0.3.4",
     "stable": "0.3",
     "changes": {
+        "0.3.4": [
+            "Added little player icons that display in the player list menu",
+            "Make the changelog gui not crash when it fails",
+            "Fixed the start hut sometimes generating underground",
+            "Made water look and feel a bit nicer",
+            "[API] Added a basic inter mod communication system",
+            "[API] Unified height and biome generation to make it easier for modders to add custom worlds",
+            "[API] Add the option for mods to add custom skies to their worlds"
+        ],
         "0.3.3": [
             "Add a command to freeze time",
             "Added boomerangs; return;",
