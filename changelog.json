@@ -1,7 +1,21 @@
 {
-    "latest": "0.3.4",
-    "stable": "0.3",
+    "latest": "0.3.5",
+    "stable": "0.3.4",
     "changes": {
+        "0.3.5": [
+            "Added farming",
+            "Added corn",
+            "Added mortar recipes to the compendium",
+            "Added furnace recipes to the compendium",
+            "Added glass",
+            "Added levels to effects",
+            "Added a range effect (unobtainable without cheats)",
+            "Added a pickup range effect (unobtainable without cheats)",
+            "Fix client worlds not overriding some sub world properties right",
+            "[API] Allow for mods to have custom time and sky light settings",
+            "[API] Add the ability to cancel the player rendering",
+            "[API] Deprecate some unnecessary methods"
+        ],
         "0.3.4": [
             "Added little player icons that display in the player list menu",
             "Make the changelog gui not crash when it fails",
