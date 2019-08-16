@@ -1,7 +1,27 @@
 {
-    "latest": "0.3.5",
+    "latest": "0.3.6",
     "stable": "0.3.4",
     "changes": {
+        "0.3.6": [
+            "Added Sticks",
+            "Added Spinning Wheel",
+            "Added Cotton and Yarn",
+            "You can use / to quickly enter commands",
+            "Commands can be used in singleplayer when in debug mode",
+            "Added Construction Table",
+            "Added Smithing Table",
+            "Changed tool durability to a bar",
+            "Added durability descriptors",
+            "All recipes can now have a skill reward",
+            "Learning multiple recipes at once only displays a single toast",
+            "Recipes can now specify requirements for unlocking",
+            "All player based recipes can now be learned",
+            "Added Creative Mode",
+            "[API] Recipes can now use a tile entity as a crafting station",
+            "[API] Simplified the process of creating custom recipe loaders",
+            "[API] You can now force a specific slot color",
+            "[API] Slot rendering can be disabled"
+        ],
         "0.3.5": [
             "Added farming",
             "Added corn",
