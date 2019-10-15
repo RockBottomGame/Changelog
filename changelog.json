@@ -1,7 +1,18 @@
 {
-    "latest": "0.3.6",
-    "stable": "0.3.4",
+    "latest": "0.3.7.2",
+    "stable": "0.3.6",
     "changes": {
+        "0.3.7.2": [
+            "Added chiselling! You can chisel certain tiles with the chisel.",
+            "Added platforms!",
+            "Updated creative mode (More intuitive movement)!",
+            "Removed Herobr... oh wait, wrong game.",
+            "Fixed Graphic glitch when pausing the game whilst moving",
+            "Fixed Chunk bleeding during world creation causing the chunk at (0, 0) to be glitched.",
+            "[API] Custom biome rendering!",
+            "[API] New Event - RecipeLearnEvent!",
+            "[API] Interaction events now specify which type of interaction it is."
+        ],
         "0.3.6": [
             "Added Sticks",
             "Added Spinning Wheel",
