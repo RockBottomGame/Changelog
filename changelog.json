@@ -1,7 +1,11 @@
 {
-    "latest": "0.3.7.2",
+    "latest": "0.3.7.3",
     "stable": "0.3.6",
     "changes": {
+        "0.3.7.3": [
+            "[API] Major refactor of the codebase class names",
+            "[API] Packets are now registered on their factory rather than the class"
+        ],
         "0.3.7.2": [
             "Added chiselling! You can chisel certain tiles with the chisel.",
             "Added platforms!",
