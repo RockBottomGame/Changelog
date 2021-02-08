@@ -3,12 +3,16 @@
     "stable": "0.3.6",
     "changes": {
         "0.4": [
+            "Re-added cotton world generator",
+            "Updated yarn texture",
+            "Recipes requiring tools now stated the tools that are missing",
             "Added Plant Ropes.",
             "Fixed recipes not using the inventory inputs inefficiently. They will now correctly try to use an entire instance before finding the next one",
             "Fixed construction tools not getting destroyed when they reach 0 durability",
             "Fixed text not being centered in Smithing and Contruction Table Guis",
             "Fixed items rendering one pixel off when climbing",
             "[DEV] Added Camera Mode in Debug Mode",
+            "[API] Updated construction recipe handling",
             "[API] Major refactor of the API"
         ],
         "0.3.7.3": [
