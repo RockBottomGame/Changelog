@@ -3,6 +3,7 @@
     "stable": "0.3.6",
     "changes": {
         "0.4": [
+            "Grass Tufts now regrow on Grass tiles randomly",
             "Re-added cotton world generator",
             "Updated yarn texture",
             "Recipes requiring tools now stated the tools that are missing",
