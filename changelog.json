@@ -3,6 +3,7 @@
     "stable": "0.3.6",
     "changes": {
         "0.4": [
+            "Added pots which can hold flowers",
             "Grass Tufts now regrow on Grass tiles randomly",
             "Re-added cotton world generator",
             "Updated yarn texture",
