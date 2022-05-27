@@ -2,6 +2,9 @@
     "latest": "0.4",
     "stable": "0.3.6",
     "changes": {
+        "0.5": [
+            "[API] Added matrix tranformation rendering instead of raw translation/rotation/scale calls"
+        ],
         "0.4": [
             "Added Beds",
             "Added pots which can hold flowers",
