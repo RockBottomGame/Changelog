@@ -5,7 +5,8 @@
         "0.5": [
             "Added social icons to the Main Menu",
             "Added quick switch between Survival Inventory and Item List while in Creative Mode",
-            "[API] Added matrix tranformation rendering instead of raw translation/rotation/scale calls"
+            "[API] Added matrix tranformation rendering instead of raw translation/rotation/scale calls",
+            "[API] Refactors"
         ],
         "0.4": [
             "Added Beds",
