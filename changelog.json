@@ -1,6 +1,6 @@
 {
-    "latest": "0.4",
-    "stable": "0.3.6",
+    "latest": "0.5",
+    "stable": "0.5",
     "changes": {
         "0.5": [
             "Added social icons to the Main Menu",
